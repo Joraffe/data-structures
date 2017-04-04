@@ -1,0 +1,6 @@
+# Python compiled Files
+*.pyc
+
+# pytest cache folders
+.cache/
+__pycache__/
